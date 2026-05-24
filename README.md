@@ -26,9 +26,7 @@ a bioinformatics tool for multiomics data integration and analysis.
 ## Author
 
 Maleeha Farooq
+
 Bs.Bioinformatics 
+
 Government College University, Faisalabad
-
-BS (Hons.) Bioinformatics  
-
-Government College University Faisalabad
